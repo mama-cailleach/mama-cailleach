@@ -18,7 +18,7 @@ Python | Lua | SQL (basic) | Git | Playdate SDK | EN↔PTBR Translation/LQA
 ## Featured Projects
 - **[Python Portfolio](https://github.com/mama-cailleach/python-portfolio)**  
   A curated collection of my Python projects and experiments—showcasing data tools, CLI apps, automation, and more.
-- **[T20 Cricket Scorecard Generator](https://github.com/mama-cailleach/python-courses/tree/main/cisco-python-essentials-2/scorecard-generator)**  
+- **[T20 Cricket Scorecard Generator](https://github.com/mama-cailleach/python-portfolio/tree/main/python-courses/cisco-python-essentials-2/scorecard-generator)**  
   Modular Python CLI app for simulating and logging cricket matches, cricket and code: howzat?! *(WIP)*
 - **[Truco 2000](https://github.com/mama-cailleach/python-portfolio/tree/main/python-experiments/truco-2000)**
   The classic Brazilian card game in CLI format. *(WIP, only in Portuguese at the moment)*
