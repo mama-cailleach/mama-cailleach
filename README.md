@@ -11,7 +11,7 @@ Outside of tech, I’ve played in bands, worked as a sound engineer, and volunte
 I use they/them pronouns.
 
 **Skills & Tools:**  
-Python | Lua | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
+Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
 
 ---
 
