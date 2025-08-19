@@ -28,7 +28,7 @@ Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
 ---
 
 ## 🔗 More About Me
-- [View my full CV here](https://github.com/mama-cailleach/my-cv/blob/main/cv1.md)
+- [View my current CV here](https://github.com/mama-cailleach/my-cv/blob/main/cv1.md)
 - [Itch.io (Games)](https://mama666.itch.io/), [Localization Portfolio](https://mamaloc.itch.io/)
 - [Email](mailto:marcelo.terreiro@gmail.com)
 
