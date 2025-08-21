@@ -22,15 +22,15 @@ Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
   A mystical tarot reading game for Playdate console featuring crank-controlled shuffling, atmospheric design, and custom Python development tools.
 - **[T20 Cricket Scorecard Generator](https://github.com/mama-cailleach/python-portfolio/tree/main/python-courses/cisco-python-essentials-2/scorecard-generator)**  
   Modular Python CLI app for simulating and logging cricket matches, cricket and code: howzat?! *(WIP)*
-- **[Truco 2000](https://github.com/mama-cailleach/python-portfolio/tree/main/python-experiments/truco-2000)**
+- **[Truco 2000](https://github.com/mama-cailleach/truco-2000)**
   The classic Brazilian card game in CLI format. *(WIP, only in Portuguese at the moment)*
 
 ---
 
 ## 🔗 More About Me
 - [View my current CV here](https://github.com/mama-cailleach/my-cv/blob/main/cv1.md)
-- [Itch.io (Games)](https://mama666.itch.io/), [Localization Portfolio](https://mamaloc.itch.io/)
-- [Email](mailto:marcelo.terreiro@gmail.com)
+- [Itch.io Games](https://mama666.itch.io/), [Localization Portfolio](https://mamaloc.itch.io/)
+- [Email: marcelo.terreiro@gmail.com](mailto:marcelo.terreiro@gmail.com)
 
 ---
 
