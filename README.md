@@ -4,11 +4,12 @@
 
 ## About Me
 
-I’m about to start a BSc in Data Science because I’d love to mix my love for cricket with a career in data analysis (wicket nerds unite!). Alongside my studies, I’m teaching myself to make wee games with Lua for the Playdate and Python for those classic CLI vibes I grew up with. 
-Lately, I’ve been building Python tools to make life (and code) a bit easier. I also put my experience in game localization and EN↔PTBR translation to work supporting indie games and devs.
+I’m about to start a BSc in Data Science because I’d love to mix my love for cricket with a career in data analysis (wicket nerds unite!). 
+<br>Alongside my studies, I’m teaching myself to make wee games with Lua for the Playdate and Python for those classic CLI vibes I grew up with. 
+<br>Lately, I’ve been building Python tools to make life (and code) a bit easier. I also put my experience in game localization and EN↔PTBR translation to work supporting indie games and devs.
 
-Outside of tech: I’ve played in bands, worked as a sound engineer, and volunteered in DIY punk spaces.
-I prefer they/them pronouns.
+Outside of tech: I’ve played in bands, worked as a sound engineer, and volunteered in DIY punk spaces. 
+<br>I prefer they/them pronouns.
 
 **Skills & Tools:**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
