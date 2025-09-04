@@ -44,9 +44,9 @@ Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
   Modular Python app for simulating and logging cricket matches.  
   <sub>Theme: Python/Cricket/CLI</sub>
 
-- **[Two Bats Or Not To Bat DATABASE (*private / link pending*)](https://github.com/mama-cailleach/TBONTB)**
-  Data project for my Cricket Team: TBONTB. A project that includes data mining, cleaning, organising, creating database, data engineering and analysis. For showcasing, studying and fun.
-  <sub>Theme: Cricket/Database/Excel/Data Tools </sub>
+- **Two Bats Or Not To Bat DATABASE** *(private / link pending)*  
+  Data project for my cricket team TBONTB: data mining, cleaning, organizing, database creation, engineering, and analysis.  
+  <sub>Theme: Cricket/Database/Excel/Data Tools</sub>
 
 ---
 
