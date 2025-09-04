@@ -7,11 +7,18 @@
 I’m about to start a BSc in Data Science because I’d love to mix my love for cricket with a career in data analysis (wicket nerds unite!). Alongside my studies, I’m teaching myself to make wee games with Lua for the Playdate and Python for those classic CLI vibes I grew up with. 
 Lately, I’ve been building Python tools to make life (and code) a bit easier. I also put my experience in game localization and EN↔PTBR translation to work supporting indie games and devs.
 
-Outside of tech, I’ve played in bands, worked as a sound engineer, and volunteered in DIY punk spaces.  
-I use they/them pronouns.
+Outside of tech: I’ve played in bands, worked as a sound engineer, and volunteered in DIY punk spaces.
+I prefer they/them pronouns.
 
 **Skills & Tools:**  
-Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff) 
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=fff)
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=sqlite&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![Playdate SDK](https://img.shields.io/badge/-Playdate-FFD400?logo=data:image/svg+xml;base64,...&logoColor=black)
+![Translation](https://img.shields.io/badge/-EN↔PTBR%20Translation-blueviolet)
+![Tools](https://img.shields.io/badge/-CLI,%20Automation,%20Data%20Tools-grey)
 
 ---
 
@@ -34,7 +41,7 @@ Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
   <sub>Theme: Data/Cricket/Data Analysis</sub>
 ---
 
-## 🛠️ Currently Working On
+## Currently Working On
 
 - **[Truco 2000](https://github.com/mama-cailleach/truco-2000)**  
   CLI version of the classic Brazilian card game. *(WIP, Portuguese only at the moment)*  
@@ -50,10 +57,11 @@ Python | Lua | Excel | SQL | Git | Playdate SDK | EN↔PTBR Translation/LQA
 
 ---
 
-## 🔗 More About Me
-- [View my current CV here](https://github.com/mama-cailleach/my-cv/blob/main/cv1.md)
-- [Itch.io Games](https://mama666.itch.io/), [Localization Portfolio](https://mamaloc.itch.io/)
-- [Email: marcelo.terreiro@gmail.com](mailto:marcelo.terreiro@gmail.com)
+## More About Me
+[![CV](https://img.shields.io/badge/CV-View-informational)](https://github.com/mama-cailleach/my-cv/blob/5c224db7265d295302da19b1d5cec7519b89db29/cv1.md)
+[![Itch.io](https://img.shields.io/badge/Itch.io-Games-ff69b4)](https://mama666.itch.io/)
+[![Localization Portfolio](https://img.shields.io/badge/Itch.io-Localization-blueviolet)](https://mamaloc.itch.io/)
+[![Email](https://img.shields.io/badge/Email-marcelo.terreiro@gmail.com-yellowgreen)](mailto:marcelo.terreiro@gmail.com)
 
 ---
 
