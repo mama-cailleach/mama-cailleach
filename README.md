@@ -35,11 +35,11 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 
 - **[Fair Game](https://github.com/mama-cailleach/fair-game)**  
   Whimsical, witchy narrative adventure for kids: modular Python CLI game with branching story, ASCII art, and magical Fair Day mysteries.
-  <sub>Theme: Game/Python/Game Jam</sub>
+  <br><sub>Theme: Game/Python/Game Jam</sub>
 
 - **[Double Double Stats And Trouble](https://github.com/mama-cailleach/double-double-stats-and-trouble)**
   Data analysis cricket blog for Two Bats Or Not To Bat to document progress and share my findings while building the team database.
-  <sub>Theme: Data/Cricket/Data Analysis</sub>
+  <br><sub>Theme: Data/Cricket/Data Analysis</sub>
 ---
 
 ## Currently Working On
