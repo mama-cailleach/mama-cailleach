@@ -4,9 +4,9 @@
 
 ## About Me
 
-I’m about to start a BSc in Data Science because I’d love to mix my love for cricket with a career in data analysis (wicket nerds unite!). 
-<br>Alongside my studies, I’m teaching myself to make wee games with Lua for the Playdate and Python for those classic CLI vibes I grew up with. 
-<br>Lately, I’ve been building Python tools to make life (and code) a bit easier. I also put my experience in game localization and EN↔PTBR translation to work supporting indie games and devs.
+I’m studying a BSc in Data Science because I’d love to mix my love for cricket with a career in data analysis (wicket nerds unite!). 
+<br>Alongside my studies, I’m making wee games with Lua for the Playdate and Python for those classic CLI vibes I grew up with. 
+<br>Lately, I’ve also been building Python tools to make life (and code) a bit easier. I also put my experience in game localization and EN↔PTBR translation to work supporting indie games and devs.
 
 Outside of tech: I’ve played in bands, worked as a sound engineer, and volunteered in DIY punk spaces. 
 <br>I prefer they/them pronouns.
@@ -40,6 +40,7 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 - **[Double Double Stats And Trouble](https://github.com/mama-cailleach/double-double-stats-and-trouble)**
   Data analysis cricket blog for Two Bats Or Not To Bat to document progress and share my findings while building the team database.
   <br><sub>Theme: Data/Cricket/Data Analysis</sub>
+  
 ---
 
 ## Currently Working On
@@ -52,8 +53,8 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
   Modular Python app for simulating and logging cricket matches.  
   <sub>Theme: Python/Cricket/CLI</sub>
 
-- **Two Bats Or Not To Bat DATABASE** *(private / link pending)*  
-  Data project for my cricket team TBONTB: data mining, cleaning, organizing, database creation, engineering, and analysis.  
+- **Two Bats Or Not To Bat DATABASE** *(private / authorization pending)*  
+  Data project for my cricket team TBONTB: data architecture, data mining, cleaning, organizing, database creation, engineering, and analysis.  
   <sub>Theme: Cricket/Database/Excel/Data Tools</sub>
 
 ---
