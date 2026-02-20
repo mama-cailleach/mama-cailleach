@@ -60,12 +60,10 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 ---
 
 ## More About Me
-[![CV](https://img.shields.io/badge/CV-View-informational)](https://github.com/mama-cailleach/my-cv/blob/bf11f05027268475e6051329a7d4e041ede6321d/cv1.md)
-[![Itch.io](https://img.shields.io/badge/Itch.io-Games-ff69b4)](https://mama666.itch.io/)
+[![Game Dev](https://img.shields.io/badge/Itch.io-Games-ff69b4)](https://mama666.itch.io/)
 [![Localization Portfolio](https://img.shields.io/badge/Itch.io-Localization-blueviolet)](https://mamaloc.itch.io/)
 [![Email](https://img.shields.io/badge/Email-marcelo.terreiro@gmail.com-yellowgreen)](mailto:marcelo.terreiro@gmail.com)
 
 ---
 
 > Always up for new projects, collabs, or just running singles.  
-> Need a translation for your game? Hit me up!
