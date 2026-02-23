@@ -34,7 +34,7 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
   <sub>Theme: Game/Lua</sub> 
 
 - **[Double Double Stats And Trouble](https://github.com/mama-cailleach/double-double-stats-and-trouble)**
-  Data analysis cricket blog for Two Bats Or Not To Bat to document progress and share my findings while building the team database.
+  <br>Data analysis cricket blog for Two Bats Or Not To Bat to document progress and share my findings while building the team database.
   <br><sub>Theme: Data/Cricket/Data Analysis</sub>
 
 - **[Python Portfolio](https://github.com/mama-cailleach/python-portfolio)**  
