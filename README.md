@@ -55,7 +55,7 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 
 - **[T20 Cricket Scorecard Generator](https://github.com/mama-cailleach/python-portfolio/tree/main/python-courses/cisco-python-essentials-2/scorecard-generator)**  
   Modular Python app for simulating and logging cricket matches. 
-  <sub>Theme: Python/Cricket/CLI</sub>
+  <br><sub>Theme: Python/Cricket/CLI</sub>
 
 - **Two Bats Or Not To Bat DATABASE** *(private)*  
   Data project for my cricket team TBONTB: data architecture, data mining, cleaning, organizing, database creation, engineering, and analysis.  
