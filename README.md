@@ -31,7 +31,7 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 
  - **[Ladeira Abaixo](https://github.com/mama-cailleach/ladeira-abaixo)**
   <br>Playdate endless runner in Lua: bomb downhill through São Paulo on a skateboard, dodging hazards and chasing high scores (built with Noble Engine).  
-  <sub>Theme: Game/Lua</sub> 
+  <sub>Theme: Game/Playdate/Lua</sub> 
 
 - **[Double Double Stats And Trouble](https://github.com/mama-cailleach/double-double-stats-and-trouble)**
   <br>Data analysis cricket blog for Two Bats Or Not To Bat to document progress and share my findings while building the team database.
