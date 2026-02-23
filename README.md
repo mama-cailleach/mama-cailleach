@@ -30,7 +30,7 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
   <sub>Theme: Game/Playdate/Lua</sub>
 
  - **[Ladeira Abaixo](https://github.com/mama-cailleach/ladeira-abaixo)**
-  Playdate endless runner in Lua: bomb downhill through São Paulo on a skateboard, dodging hazards and chasing high scores (built with Noble Engine).  
+  <br>Playdate endless runner in Lua: bomb downhill through São Paulo on a skateboard, dodging hazards and chasing high scores (built with Noble Engine).  
   <sub>Theme: Game/Lua</sub> 
 
 - **[Double Double Stats And Trouble](https://github.com/mama-cailleach/double-double-stats-and-trouble)**
