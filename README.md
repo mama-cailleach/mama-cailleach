@@ -50,11 +50,11 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 ## Currently Working On
 
 - **[Truco 2000](https://github.com/mama-cailleach/truco-2000)**  
-  CLI version of the classic Brazilian card game. *(WIP, Portuguese only at the moment)*  
-  <sub>Theme: Game/CLI</sub>
+  Pygame version of the classic Brazilian card game. *(WIP, currently refactoring from CLI to Pygame)*  
+  <sub>Theme: Game/Python/PyGame/CLI</sub>
 
 - **[T20 Cricket Scorecard Generator](https://github.com/mama-cailleach/python-portfolio/tree/main/python-courses/cisco-python-essentials-2/scorecard-generator)**  
-  Modular Python app for simulating and logging cricket matches.  
+  Modular Python app for simulating and logging cricket matches. 
   <sub>Theme: Python/Cricket/CLI</sub>
 
 - **Two Bats Or Not To Bat DATABASE** *(private)*  
