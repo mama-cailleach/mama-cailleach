@@ -25,21 +25,25 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
 
 ## Featured Projects
 
-- **[Python Portfolio](https://github.com/mama-cailleach/python-portfolio)**  
-  A curated collection of my Python study projects and experiments. Showcasing data tools, CLI apps, automation, and more.  
-  <sub>Theme: Python/Data Tools/Learning</sub>
-
 - **[Wee Tarot](https://github.com/mama-cailleach/wee-tarot)**  
   Mystical tarot reading game for Playdate in Lua, with crank-controlled shuffling, atmospheric design and custom dev tools.  
   <sub>Theme: Game/Playdate/Lua</sub>
 
-- **[Fair Game](https://github.com/mama-cailleach/fair-game)**  
-  Whimsical, witchy narrative adventure for kids: modular Python CLI game with branching story, ASCII art, and magical Fair Day mysteries.
-  <br><sub>Theme: Game/Python/Game Jam</sub>
+ - **[Ladeira Abaixo](https://github.com/mama-cailleach/ladeira-abaixo)**
+  Playdate endless runner in Lua: bomb downhill through São Paulo on a skateboard, dodging hazards and chasing high scores (built with Noble Engine).  
+  <sub>Theme: Game/Lua</sub> 
 
 - **[Double Double Stats And Trouble](https://github.com/mama-cailleach/double-double-stats-and-trouble)**
   Data analysis cricket blog for Two Bats Or Not To Bat to document progress and share my findings while building the team database.
   <br><sub>Theme: Data/Cricket/Data Analysis</sub>
+
+- **[Python Portfolio](https://github.com/mama-cailleach/python-portfolio)**  
+  A curated collection of my Python study projects and experiments. Showcasing data tools, CLI apps, automation, and more.  
+  <sub>Theme: Python/Data Tools/Learning</sub>
+
+- **[Fair Game](https://github.com/mama-cailleach/fair-game)**  
+  Whimsical, witchy narrative adventure for kids: modular Python CLI game with branching story, ASCII art, and magical Fair Day mysteries.
+  <br><sub>Theme: Game/Python/Game Jam</sub>
   
 ---
 
@@ -53,7 +57,7 @@ Outside of tech: I’ve played in bands, worked as a sound engineer, and volunte
   Modular Python app for simulating and logging cricket matches.  
   <sub>Theme: Python/Cricket/CLI</sub>
 
-- **Two Bats Or Not To Bat DATABASE** *(private / authorization pending)*  
+- **Two Bats Or Not To Bat DATABASE** *(private)*  
   Data project for my cricket team TBONTB: data architecture, data mining, cleaning, organizing, database creation, engineering, and analysis.  
   <sub>Theme: Cricket/Database/Excel/Data Tools</sub>
 
